@@ -1,0 +1,14 @@
+[
+  {
+    "id": "001",
+    "video": "vid-1.mp4",
+    "subtitle": "str",
+    "image_1": "str",
+    "image_2": "str",
+    "image_3": "str",
+    "audio_1": "str",
+    "audio_2": "str",
+    "audio_3": "str",
+    "pdf": "str"
+  }
+]
